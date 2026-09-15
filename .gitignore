@@ -37,3 +37,4 @@ __pycache__/
 tmp/
 logs/
 log/
+videolive-gemma4/models/*.pt
