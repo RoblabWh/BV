@@ -1,0 +1,39 @@
+# Betriebssysteme
+.DS_Store
+Thumbs.db
+desktop.ini
+venv/
+.venv/
+scan_logs/
+
+# Editoren & IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.bak
+
+# Logs & temporäre Dateien
+AGENTS.md
+agents.md
+readme-prompt-check.md
+zustand.md
+ZUSTAND.md
+*.log
+*.tmp
+.temp/
+tmp/
+log/
+scan_logs/
+
+
+# Build-Ergebnisse & Abhängigkeiten
+bin/
+build/
+dist/
+node_modules/
+__pycache__/
+tmp/
+logs/
+log/
